@@ -13,5 +13,5 @@
 
 ## Windows CMD ##
 
-- Cd .. ? : een niveau hoger (Lnx cd - )
-- 
+- Cd .. : een niveau hoger (Lnx cd - )
+
