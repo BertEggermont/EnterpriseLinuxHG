@@ -15,3 +15,7 @@
 
 - Cd .. : een niveau hoger (Lnx cd - )
 
+## Wijziging 
+
+- test
+
